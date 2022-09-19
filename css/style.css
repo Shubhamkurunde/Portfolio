@@ -177,10 +177,7 @@ header .navbar ul li a:hover{
     font-weight: normal;
 }
 
-.about .row .info h3 span{
-color: #eee;
-padding: 0 .5rem;
-}
+
 
 .about .row .box{
     flex: 1 1 48rem;
@@ -188,8 +185,8 @@ padding: 0 .5rem;
     justify-content: center;
     flex-wrap: wrap;
     border: 0.2rem solid #fff8;
-    margin: 6rem;
-    padding: 2rem;
+    margin: 8rem;
+    padding: 3rem;
     border-radius: 2rem;
 }
 
